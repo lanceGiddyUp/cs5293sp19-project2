@@ -16,6 +16,12 @@ RESOURCES:
 
              extracting elements of tuples from a list of tuples
 
+LARGER INSTANCE:
+
+    With all the movie reviews and my code I was over the 10 GB limit of my original instance when I
+    started to add to my git folder.  So, I created a new instance with more memory and more storage
+    capacity.
+
 KNOWN BUGS:
 
     1)   None
@@ -86,7 +92,8 @@ HOW TO USE:
 
          I have done this using the following:
 
-             pipenv run python project2/makeTest.py --num 20 --redact "LMRDS/aclImdb/test/*.txt"
+             pipenv run python project2/makeTest.py --num 20 --redact
+             "LMRDS/aclImdb/test/1406_4.txt" --redact "LMRDS/aclImdb/test/*.txt"
 
          This passes the test file bank contents to the makeTest.py module.  For each of the
          files, the names are extracted and saved to a file in the directory:
