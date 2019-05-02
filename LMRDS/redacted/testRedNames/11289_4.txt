@@ -1,0 +1,1 @@
+[('Cobb', 3), ('Al Stump', 387), ('Cobb', 447), ('Cobb', 821), ('Tommy Lee Jones', 864), ('Cobb', 911), ('Cobb', 995), ('Robert', 1091), ('Al Stump', 1126), ('Cobb', 1412), ('Stump', 1421), ('Cobb', 1817), ('Cobb', 2057), ('Tommy Lee Jones', 2151), ('Cobb', 2277), ('Cobb', 2498), ('Ron Shelton', 2627)]

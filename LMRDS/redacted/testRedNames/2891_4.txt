@@ -1,0 +1,1 @@
+[('Tom', 424), ('Skerritt', 428), ('Howard Anderson', 446), ('Julian Fane', 643), ('Doleman', 660), ('Fane', 915), ('Anderson', 1029), ('Fane', 1361), ('Lloyd', 1414), ('George Engels', 1460), ('James', 1475), ('Mason', 1481), ('Wendy Hughes', 1620), ('Christmas', 1757), ('Skerritt', 2084), ('Mason', 2183), ('Hughes', 2251), ('Doleman', 2312), ('Julian Fane', 2379)]

@@ -1,0 +1,1 @@
+[('Keira', 245), ('Darcy', 344), ('Bingley', 429), ('Bennett', 489), ('Bennett', 618), ('Collins', 784), ('Georgina Darcy', 850), ('Miss Bingley', 886)]

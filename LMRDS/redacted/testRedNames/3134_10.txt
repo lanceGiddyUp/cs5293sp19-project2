@@ -1,0 +1,1 @@
+[('Wagon Master', 64), ('Jane Darwell', 230), ('Alan Mowbray', 244), ('Ward Bond', 258), ('Harry Carey', 272)]

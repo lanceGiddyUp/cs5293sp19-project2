@@ -1,0 +1,1 @@
+[('Anne Elliot', 977), ('Anne', 1140), ('Anne Elliot', 1190), ('Anne', 1318), ('Louisa', 1578), ('Captain Wentworth', 1997), ('Louisa', 2250), ('Austens', 2425), ('Amanda Root', 2683), ('Ciaran Hinds', 2699)]
